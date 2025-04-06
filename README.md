@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 Hauspreis-Vorhersage mit Machine Learning
 
 Ein einfaches Projekt zur Vorhersage von Immobilienpreisen basierend auf Anzahl der Zimmer und Wohnfläche (in m²).
@@ -41,3 +42,7 @@ python hauspreis_vorhersage.py
 ---
 
 👩‍💻 Projekt von [Yael Solan](https://github.com/yaelsolan) – April 2025
+=======
+# hauspreis-vorhersage
+Vorhersage von Hauspreisen mit Linear Regression (Python, scikit-learn, Pandas)
+>>>>>>> 568f5a1d91576b20a75c8af054089aeffe3a9645
